@@ -1,8 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning ...IaC Terraform AWS (interesting)  
 [![Radish's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoulcloud&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img src="![image](https://github.com/user-attachments/assets/ac7fc931-fba2-4032-a6b3-138e7c76add9)
-" width="150" height="150"/>
+<img src="(https://github.com/user-attachments/assets/ac7fc931-fba2-4032-a6b3-138e7c76add9)" width="150" height="150"/>
 
 <!-- 출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리] -->
 <!--
