@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning ...IaC Terraform AWS (interesting)  
 [![Radish's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoulcloud&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![대충뱃지자리]([img주소](https://postfiles.pstatic.net/MjAyNTAyMTRfNzQg/MDAxNzM5NDcxMjk4NTMw.nz37sJQ8EZuLDoUXXdlMDScmHc9bZ8QYhUinUnBl6uQg.hNvUeZ1jBtFowjrl7ed59sAm6p6BwkUYYlFtoCYNeJYg.PNG/image.png?type=w773)
+![](https://postfiles.pstatic.net/MjAyNTAyMTRfNzQg/MDAxNzM5NDcxMjk4NTMw.nz37sJQ8EZuLDoUXXdlMDScmHc9bZ8QYhUinUnBl6uQg.hNvUeZ1jBtFowjrl7ed59sAm6p6BwkUYYlFtoCYNeJYg.PNG/image.png?type=w773)
 
 <!-- 출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리] -->
 <!--
