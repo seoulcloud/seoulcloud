@@ -1,5 +1,8 @@
 ## Hi there 👋
+- 🌱 I’m currently learning ...IaC Terraform AWS (interesting)
+  [![Radish's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoulcloud&show_icons=true&theme=gruvbox_light a&count_private=true)](https://github.com/seoulcloud/github-readme-stats)
 
+<!-- 출처: https://min-0.tistory.com/entry/Git-Github-Profile-깃허브-꾸미기-줄여서-깃꾸-ㅋㅋ [min-0's  Growth Diary:티스토리] -->
 <!--
 **seoulcloud/seoulcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
