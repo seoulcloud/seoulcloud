@@ -5,5 +5,5 @@
 <img src="https://github.com/user-attachments/assets/ac7fc931-fba2-4032-a6b3-138e7c76add9" width="150" height="150"/>
 
 ### Projects
-<a href=https://github.com/seoulcloud/Terraform-VPC-building.git>Terraform-AWS Architecture</a>  
+<a href=https://github.com/seoulcloud/Infra-building.git>Infra Building</a>  
 <a href=https://github.com/seoulcloud/seoulcloud>Back To Profile</a>
