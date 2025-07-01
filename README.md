@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![무도사 GitHub 방문자](https://komarev.com/ghpvc/?username=your-github-id&style=flat-square&color=blue)
-![무도사 레포지토리 수](https://img.shields.io/github/repos-per-user/your-github-id?style=flat-square)
-![무도사 스타 수](https://img.shields.io/github/stars/your-github-id?style=flat-square)
+![무도사 GitHub 방문자](https://komarev.com/ghpvc/?username=seoulcloud&style=flat-square&color=blue)
+![무도사 레포지토리 수](https://img.shields.io/github/repos-per-user/seoulcloud?style=flat-square)
+![무도사 스타 수](https://img.shields.io/github/stars/seoulcloud?style=flat-square)
 
 ### 연락처  
 - Email: integrall92@gmail.com
