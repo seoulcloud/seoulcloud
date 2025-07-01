@@ -10,6 +10,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=wind&logoColor=white) <!-- 공식 로고 없으면 검은색으로 임시 -->
 ![Cursor](https://img.shields.io/badge/Cursor-00BCD4?style=for-the-badge&logo=cursor&logoColor=white) <!-- 공식 로고 없으면 비슷한 색상으로 대체 -->
 ![GPT](https://img.shields.io/badge/GPT-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
@@ -19,8 +21,14 @@
 ## 🏆 Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS-SAA-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0-정보처리기사-0078D7?style=for-the-badge)
 ---
+
+## 📊 GitHub Stats
+
+![무도사 GitHub 방문자](https://komarev.com/ghpvc/?username=your-github-id&style=flat-square&color=blue)
+![무도사 레포지토리 수](https://img.shields.io/github/repos-per-user/your-github-id?style=flat-square)
+![무도사 스타 수](https://img.shields.io/github/stars/your-github-id?style=flat-square)
 
 ### 연락처  
 - Email: integrall92@gmail.com
