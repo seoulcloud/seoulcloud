@@ -22,18 +22,11 @@
 
 ---
 
-## 🎮 8bit 캐릭터
-
-![8bit-runner](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
-*가볍게 달리는 8비트 캐릭터 GIF 예시*
-
----
-
 ### 연락처  
 - Email: integrall92@gmail.com
 - GitHub: [https://github.com/seoulcloud](https://github.com/seoulcloud)
 
 ---
 
-**무도사** | 클라우드 엔지니어링 수련 중 | 8월 부트캠프 진행 중
+**무도사** | 클라우드 엔지니어링 수련 중 | 8월 부트캠프 수료예정
 
