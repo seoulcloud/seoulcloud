@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![무도사 GitHub stats](https://github-readme-stats.vercel.app/api?username=seoulcloud&show_icons=true&count_private=true&theme=radical)
+![무도사 GitHub stats](https://github-readme-stats.vercel.app/api?username=seoulcloud&show_icons=true&count_private=true&theme=gruvbox_light&show_icons=true)
 
 ### 연락처  
 - Email: integrall92@gmail.com
