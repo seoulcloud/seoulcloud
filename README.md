@@ -21,13 +21,13 @@
 ## 🏆 Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS-SAA-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0-정보처리기사-0078D7?style=for-the-badge)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-자격증-blue?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
 
 ![무도사 GitHub 방문자](https://komarev.com/ghpvc/?username=seoulcloud&style=flat-square&color=blue)
-![무도사 레포지토리 수](https://img.shields.io/github/repos-per-user/seoulcloud?style=flat-square)
+![무도사 레포지토리 수](https://img.shields.io/github/repos/seoulcloud?style=flat-square)
 ![무도사 스타 수](https://img.shields.io/github/stars/seoulcloud?style=flat-square)
 
 ### 연락처  
