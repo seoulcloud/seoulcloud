@@ -1,6 +1,8 @@
 # 👾 무도사의 레포지토리에 오신걸 환영합니다 👾
 
-![8bit character](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlhOGE2M2VxN3VzaDhyY2NzcWV0M3ZxNmszdmE5a3Rkdm1zczBtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyoEU7iKgmUjlao/giphy.gif)  
+![cloud whale](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Rka3c0Z29sdm02eDVhYXY4cmlpYmhmb2IxZmQ4djZzN3JoNzM4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gmZuUqwQtllKVjMMz9/giphy.gif)  
+![cloud cat](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Rka3c0Z29sdm02eDVhYXY4cmlpYmhmb2IxZmQ4djZzN3JoNzM4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gmZuUqwQtllKVjMMz9/giphy.gif)
+![cloud car](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Rka3c0Z29sdm02eDVhYXY4cmlpYmhmb2IxZmQ4djZzN3JoNzM4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8iALpBNdW0mFMdytRE/giphy.gif)
 ---
 
 ## 🚀 Skills & Tools
