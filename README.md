@@ -1,6 +1,6 @@
-# 👾 무도사의 개발 노트 👾
+# 👾 무도사의 레포지토리에 오신걸 환영합니다 👾
 
-![8bit character](https://media.giphy.com/media/26xBMuJ7Iwo8Yv7xW/giphy.gif)  
+![8bit character](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlhOGE2M2VxN3VzaDhyY2NzcWV0M3ZxNmszdmE5a3Rkdm1zczBtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyoEU7iKgmUjlao/giphy.gif)  
 *8비트 감성 충만한 나의 아바타*
 
 ---
