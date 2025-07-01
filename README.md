@@ -21,14 +21,12 @@
 ## 🏆 Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS-SAA-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-자격증-blue?style=for-the-badge)
+![정보처리기사](https://img.shields.io/badge/정보처리-기-blue?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
 
-![무도사 GitHub 방문자](https://komarev.com/ghpvc/?username=seoulcloud&style=flat-square&color=blue)
-![무도사 레포지토리 수](https://img.shields.io/github/repos/seoulcloud?style=flat-square)
-![무도사 스타 수](https://img.shields.io/github/stars/seoulcloud?style=flat-square)
+![무도사 GitHub stats](https://github-readme-stats.vercel.app/api?username=seoulcloud&show_icons=true&count_private=true&theme=radical)
 
 ### 연락처  
 - Email: integrall92@gmail.com
