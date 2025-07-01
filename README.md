@@ -21,7 +21,7 @@
 ## 🏆 Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS-SAA-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![정보처리기사](https://img.shields.io/badge/정보처리-기-blue?style=for-the-badge)
+![정보처리기사](https://img.shields.io/badge/정보처리-기사-blue?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
