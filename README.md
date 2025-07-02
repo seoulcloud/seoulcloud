@@ -1,14 +1,16 @@
-<!-- 깃허브 호환형 8bit-style README 헤더 -->
-
 <p align="center">
-  <!-- 배경 GIF -->
-  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="100%" style="max-height: 300px; object-fit: cover;">
-
-  <!-- 중앙 텍스트 이미지처럼 보이게 -->
+  <img 
+    src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" 
+    alt="Cyberpunk 8bit background" 
+    width="100%" 
+    style="max-height: 300px; object-fit: cover;"
+  />
   <br />
   <strong>
-    <span style="font-size: 2em; font-family: 'Courier New', monospace; color: #00ffcc;">
-      👾 무도사의 레포지토리에 오신 걸 환영합니다 👾
+    <span style="font-size: 2em; 
+                 font-family: 'Courier New', monospace; 
+                 color: #00ffcc;">
+      👾 무도사에 레포지토리에 오신 걸 환영합니다 👾
     </span>
   </strong>
 </p>
