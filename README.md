@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl3eTVjcno2YjV5MTVpazU1a3BoOWllbHkwdDB4dHF2a3dwczRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IK1LbnjGbz7sYVJZb7/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl3eTVjcno2YjV5MTVpazU1a3BoOWllbHkwdDB4dHF2a3dwczRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IK1LbnjGbz7sYVJZb7/giphy.gif" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
@@ -51,6 +51,24 @@
 ## 📂 Notion Portfolio
 
 📎 [무도사 Notion 포트폴리오 보러가기](https://chestnut-grip-0af.notion.site/3-1d7d7c8d02ed80529cd1d1217ad36a44)
+
+---
+
+## ⏳ 지금은 뭐 하고 있나요?
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seoulcloud&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👨‍💻 About Me
+
+```
+👨‍💻 무도사 (Mudosa)
+🔧 클라우드 엔지니어링 수련 중
+📆 2025년 8월 부트캠프 수료 예정
+🧠 좋아하는 도구들: K8s, GitOps, Terraform, Prometheus, GPT, Cursor 등
+```
+
 ---
 
 ## 📢 Contact
@@ -59,5 +77,3 @@
 <a href="https://github.com/seoulcloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
-
-**무도사** | 클라우드 엔지니어링 수련 중 | 8월 부트캠프 수료예정
