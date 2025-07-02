@@ -1,19 +1,29 @@
-<!-- README 헤더 꾸미기 (8bit CyberCity style) -->
+<!-- README Header: 8bit Cyber Glitch Style -->
 
-<!-- 움직이는 배경 GIF 위에 텍스트를 겹쳐 표현 -->
 <div align="center" style="position: relative; text-align: center;">
 
-  <!-- 배경: Cyberpunk 스타일 GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o5Y3hrNG51N2I0MHFtZ2liM3czNnR2cWNwMzdrcjFnOXp0NHY3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X8MNYdghhFizumZqF1/giphy.gif" alt="cyberpunk-banner" width="100%" style="max-height: 300px; object-fit: cover; opacity: 0.8;">
+  <!-- 움직이는 cyberpunk 느낌 배경 -->
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" 
+       alt="cyberpunk-background" width="100%" style="max-height: 300px; object-fit: cover; opacity: 0.6;">
 
-  <!-- 가운데 텍스트 (반투명 + 네온글씨 효과) -->
+  <!-- 깜빡이는 타이핑 효과 텍스트 -->
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
              font-family: 'Courier New', monospace;
-             font-size: 3em; color: #00ffcc;
-             text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
-             background-color: rgba(0,0,0,0.5); padding: 0.5em 1em; border-radius: 10px;">
-    👾 Welcome to 무도사's Cyber Lab 👾
+             font-size: 3em; color: #00ffc3;
+             background-color: rgba(0, 0, 0, 0.6); padding: 0.4em 1em;
+             border-radius: 12px;
+             animation: blink 1s steps(1) infinite;">
+    👾 무도사의 CYBER LAB 👾
   </h1>
+
+  <!-- 깜빡이는 효과 정의 -->
+  <style>
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+  </style>
 
 </div>
 
