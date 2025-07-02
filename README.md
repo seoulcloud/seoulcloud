@@ -1,4 +1,22 @@
-# 👾 무도사의 레포지토리에 오신걸 환영합니다 👾
+<!-- README 헤더 꾸미기 (8bit CyberCity style) -->
+
+<!-- 움직이는 배경 GIF 위에 텍스트를 겹쳐 표현 -->
+<div align="center" style="position: relative; text-align: center;">
+
+  <!-- 배경: Cyberpunk 스타일 GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o5Y3hrNG51N2I0MHFtZ2liM3czNnR2cWNwMzdrcjFnOXp0NHY3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X8MNYdghhFizumZqF1/giphy.gif" alt="cyberpunk-banner" width="100%" style="max-height: 300px; object-fit: cover; opacity: 0.8;">
+
+  <!-- 가운데 텍스트 (반투명 + 네온글씨 효과) -->
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+             font-family: 'Courier New', monospace;
+             font-size: 3em; color: #00ffcc;
+             text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
+             background-color: rgba(0,0,0,0.5); padding: 0.5em 1em; border-radius: 10px;">
+    👾 Welcome to 무도사's Cyber Lab 👾
+  </h1>
+
+</div>
+
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnIxbmw0Mnhjcmlya2UxbHBqNDlwZjRnc2J3a3V4cWJmNHp6N2s5YiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/utFF9A5SqkhnIJg4pI/giphy.gif" />
 </p>
