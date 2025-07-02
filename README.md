@@ -1,20 +1,17 @@
 <p align="center">
-  <img 
-    src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" 
-    alt="Cyberpunk 8bit background" 
-    width="100%" 
-    style="max-height: 300px; object-fit: cover;"
-  />
-  <br />
-  <strong>
-    <span style="font-size: 2em; 
-                 font-family: 'Courier New', monospace; 
-                 color: #00ffcc;">
-      👾 무도사에 레포지토리에 오신 걸 환영합니다 👾
-    </span>
-  </strong>
-</p>
+  <!-- 배경 GIF -->
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" 
+       alt="Cyber City" 
+       width="100%" 
+       style="max-height: 300px; object-fit: cover;">
 
+  <!-- 글자: 반투명 배경 박스로 가독성 확보 -->
+  <span style="margin-top: -100px; display: inline-block; background-color: rgba(0, 0, 0, 0.6); 
+               color: #00ffcc; padding: 12px 24px; border-radius: 10px;
+               font-size: 1.5em; font-family: 'Courier New', monospace;">
+    👾 무도사의 레포지토리에 오신 걸 환영합니다 👾
+  </span>
+</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnIxbmw0Mnhjcmlya2UxbHBqNDlwZjRnc2J3a3V4cWJmNHp6N2s5YiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/utFF9A5SqkhnIJg4pI/giphy.gif" />
