@@ -13,7 +13,7 @@
              background-color: rgba(0, 0, 0, 0.6); padding: 0.4em 1em;
              border-radius: 12px;
              animation: blink 1s steps(1) infinite;">
-    👾 무도사의 CYBER LAB 👾
+    👾 무도사의 레포지토리에 오신걸 환영합니다 ! 👾
   </h1>
 
   <!-- 깜빡이는 효과 정의 -->
