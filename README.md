@@ -15,7 +15,6 @@
              animation: blink 1s steps(1) infinite;">
     👾 무도사의 레포지토리에 오신걸 환영합니다 ! 👾
   </h1>
-
   <!-- 깜빡이는 효과 정의 -->
   <style>
     @keyframes blink {
@@ -24,7 +23,6 @@
       }
     }
   </style>
-
 </div>
 
 <p align="center">
