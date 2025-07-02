@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- 배경 GIF -->
-  <img src="https://media.giphy.com/media/jnQYW6Rr5pKWs0JY5g/giphy.gif" alt="8bit city" width="100%" style="max-height: 300px; object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="100%" style="max-height: 300px; object-fit: cover;">
 
   <!-- 중앙 텍스트 이미지처럼 보이게 -->
   <br />
