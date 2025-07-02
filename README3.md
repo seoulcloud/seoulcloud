@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=%F0%9F%91%BE%20%EB%AC%B4%EB%8F%84%EC%82%AC%EC%9D%98%20%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%97%90%20%EC%98%A4%EC%8B%9C%EB%8A%94%20%EA%B2%83%EC%9D%84%20%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4%20%F0%9F%91%BE&fontSize=30&fontColor=FFFFFF" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnIxbmw0Mnhjcmlya2UxbHBqNDlwZjRnc2J3a3V4cWJmNHp6N2s5YiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/utFF9A5SqkhnIJg4pI/giphy.gif" width="400"/>
+</p>
+
 ---
 
 ## 🚀 Skills & Tools
@@ -44,12 +48,16 @@
 
 ---
 
+## 📂 Notion Portfolio
+
+📎 [무도사 Notion 포트폴리오 보러가기](https://www.notion.so/integrall92) _(URL은 사용자 맞춤으로 변경 필요)_
+
+---
+
 ## 📢 Contact
 
-
-  <a href="mailto:integrall92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/seoulcloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<a href="mailto:integrall92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/seoulcloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
