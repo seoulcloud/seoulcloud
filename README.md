@@ -1,30 +1,18 @@
-<!-- README Header: 8bit Cyber Glitch Style -->
+<!-- 깃허브 호환형 8bit-style README 헤더 -->
 
-  <!-- 깜빡이는 효과 정의 -->
-  <style>
-    @keyframes blink {
-      50% {
-        opacity: 0;
-      }
-    }
-  </style>
-  
-<div align="center" style="position: relative; text-align: center;">
+<p align="center">
+  <!-- 배경 GIF -->
+  <img src="https://media.giphy.com/media/jnQYW6Rr5pKWs0JY5g/giphy.gif" alt="8bit city" width="100%" style="max-height: 300px; object-fit: cover;">
 
-  <!-- 움직이는 cyberpunk 느낌 배경 -->
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" 
-       alt="cyberpunk-background" width="100%" style="max-height: 300px; object-fit: cover; opacity: 0.6;">
+  <!-- 중앙 텍스트 이미지처럼 보이게 -->
+  <br />
+  <strong>
+    <span style="font-size: 2em; font-family: 'Courier New', monospace; color: #00ffcc;">
+      👾 무도사의 레포지토리에 오신 걸 환영합니다 👾
+    </span>
+  </strong>
+</p>
 
-  <!-- 깜빡이는 타이핑 효과 텍스트 -->
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-             font-family: 'Courier New', monospace;
-             font-size: 3em; color: #00ffc3;
-             background-color: rgba(0, 0, 0, 0.6); padding: 0.4em 1em;
-             border-radius: 12px;
-             animation: blink 1s steps(1) infinite;">
-    👾 무도사의 레포지토리에 오신걸 환영합니다 ! 👾
-  </h1>
-</div>
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnIxbmw0Mnhjcmlya2UxbHBqNDlwZjRnc2J3a3V4cWJmNHp6N2s5YiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/utFF9A5SqkhnIJg4pI/giphy.gif" />
