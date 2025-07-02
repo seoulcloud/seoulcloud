@@ -50,8 +50,7 @@
 
 ## 📂 Notion Portfolio
 
-📎 [무도사 Notion 포트폴리오 보러가기](https://www.notion.so/integrall92) _(URL은 사용자 맞춤으로 변경 필요)_
-
+📎 [무도사 Notion 포트폴리오 보러가기](https://chestnut-grip-0af.notion.site/3-1d7d7c8d02ed80529cd1d1217ad36a44)
 ---
 
 ## 📢 Contact
