@@ -56,7 +56,7 @@
 
 ## ⏳ 지금은 뭐 하고 있나요?
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seoulcloud&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seoulcloud&theme=light)](https://github-readme-activity-graph.vercel.app)
 
 ---
 
