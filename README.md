@@ -67,7 +67,7 @@ planning migration project to EC2 for saving resource
 - Specialize in **building and operating cloud-based infrastructure**
 🔧 CloudArchithect, DevOps
 🪖 해병대 통신장교 만기전역 (2015 to 2017)
-🪟 태양광 H/W 개발 4년 (2018 to 2022)
+🪟 태양광회사 IoT H/W 개발 4년 (2018 to 2022)
 📆 2025년 8월 클라우드 엔지니어링 부트캠프 수료
 🧠 좋아하는 도구들: Terraform, AWS, git, Cursor 등
 ```
