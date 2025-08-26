@@ -52,19 +52,19 @@
 
 ---
 
-## ⏳ 지금은 뭐 하고 있나요?
+## ⏳ What am I up to...
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seoulcloud&theme=light)](https://github-readme-activity-graph.vercel.app)
+planning migration project to EC2 for saving resource
 
 ---
 
 ## 👨‍💻 About Me
 
 ```
-👨‍💻 무도사 (Mudosa)
-🔧 클라우드 엔지니어링 수련 중
+👨‍💻 김재신 (Mudosa)
+🔧 CloudArchithect, DevOps
 📆 2025년 8월 부트캠프 수료
-🧠 좋아하는 도구들: K8s, GitOps, Terraform, Prometheus, GPT, Cursor 등
+🧠 좋아하는 도구들: Terraform, AWS, git, Cursor 등
 ```
 
 ---
