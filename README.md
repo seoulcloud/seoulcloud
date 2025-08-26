@@ -34,9 +34,9 @@
 
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
-| [🌐 K8s GitOps 실습](https://github.com/seoulcloud/k8s-gitops-demo) | ArgoCD, GitHub Actions, Kustomize로 운영환경 구축 | ArgoCD, GitHub Actions, Kustomize, Prometheus, Grafana |
-| [☁️ Terraform으로 EKS 배포](https://github.com/seoulcloud/eks-terraform) | IaC 기반 EKS 클러스터 자동화 | Terraform, AWS, EKS |
-| [📦 Java 백엔드 배포](https://github.com/seoulcloud/java-deploy) | Gradle 기반 백엔드 Docker 배포 | Java, Spring, Docker, GitHub Actions |
+| [☁️ Terraform으로 EKS 배포](https://github.com/seoulcloud/final-team2-infra) | AWS SSM을 활용한 프라이빗 서버환경 여행앱 배포 자동화 
+| Terraform, AWS, Route53 - Cloudfront - S3- VPC - EKS - RDS - DocumentDB - Elasticache - Promethus - Cloudwatch-grafana ,ArgoCD-gitOps
+| [📄 인프라 소개 노션](https://www.notion.so/Terraform-1d7d7c8d02ed8086968dd758e37f2b1a?source=copy_link)
 
 ---
 
@@ -65,7 +65,7 @@
 ```
 👨‍💻 무도사 (Mudosa)
 🔧 클라우드 엔지니어링 수련 중
-📆 2025년 8월 부트캠프 수료 예정
+📆 2025년 8월 부트캠프 수료
 🧠 좋아하는 도구들: K8s, GitOps, Terraform, Prometheus, GPT, Cursor 등
 ```
 
