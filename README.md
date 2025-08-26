@@ -34,8 +34,7 @@
 
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
-| [☁️ Terraform으로 EKS 배포](https://github.com/seoulcloud/final-team2-infra) | AWS SSM을 활용한 프라이빗 서버환경 여행앱 배포 자동화
-  [📄 소개 노션](https://chestnut-grip-0af.notion.site/Goteego-256d7c8d02ed802cb215c7b9b4d99abb) | Terraform, AWS, Route53 - Cloudfront - S3- VPC - EKS - RDS - DocumentDB - Elasticache - Promethus - Cloudwatch-grafana ,ArgoCD-gitOps |
+| [☁️ Terraform으로 EKS 배포](https://github.com/seoulcloud/final-team2-infra) | AWS SSM을 활용한 프라이빗 서버환경 여행앱 배포 자동화  [📄 소개 노션](https://chestnut-grip-0af.notion.site/Goteego-256d7c8d02ed802cb215c7b9b4d99abb) | Terraform, AWS, Route53 - Cloudfront - S3- VPC - EKS - RDS - DocumentDB - Elasticache - Promethus - Cloudwatch-grafana ,ArgoCD-gitOps |
 
 ---
 
