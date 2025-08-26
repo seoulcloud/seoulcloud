@@ -48,7 +48,7 @@
 
 ## 📂 Notion Portfolio
 
-📎 [무도사 Notion 포트폴리오 보러가기](https://chestnut-grip-0af.notion.site/3-1d7d7c8d02ed80529cd1d1217ad36a44)
+📎 [Notion 포트폴리오 보러가기](https://www.notion.so/1d7d7c8d02ed80d2936bebdd61eebc98?source=copy_link)
 
 ---
 
